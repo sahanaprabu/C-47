@@ -1,2 +1,1 @@
-# C-47
-Hot air balloon
+# Hot-Air-Balloon-Blank-Template
